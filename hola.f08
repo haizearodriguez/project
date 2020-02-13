@@ -1,5 +1,5 @@
 program hola
 
-print*, hola
+print*, adios
 
 end program hola
